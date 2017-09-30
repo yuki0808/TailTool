@@ -1,0 +1,10 @@
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\TailTool\TailTool\bin\Debug\TailTool.exe
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\TailTool\TailTool\bin\Debug\TailTool.pdb
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\TailTool\TailTool\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\TailTool\TailTool\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\TailTool\TailTool\obj\Debug\TailTool.csproj.GenerateResource.Cache
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\TailTool\TailTool\obj\Debug\TailTool.exe
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\TailTool\TailTool\obj\Debug\TailTool.pdb
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\TailTool\TailTool\obj\Debug\WindowsFormsApplication1.Setteings.resources
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\TailTool\TailTool\obj\Debug\TailTool.csprojResolveAssemblyReference.cache
+C:\Users\yukishimizu\Documents\Visual Studio 2012\Projects\TailTool\TailTool\obj\Debug\WindowsFormsApplication1.HelpDialog.resources
